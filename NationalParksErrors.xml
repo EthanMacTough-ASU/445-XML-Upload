@@ -42,11 +42,12 @@
 		<Name>Lake Roosevelt</Name>
 		<Phone>509-754-7800</Phone>
 		<Address NearestAirport="Spokane">
-			<Number>1008</Number>
+			<Number>1008
 			<Street>Crest Drive</Street>
 			<City>Coulee Dam</City>
 			<State>WA</State>
 			<Zip>99116</Zip>
+		</Address>
 	</NationalPark>
 
 	<NationalPark Rating="4.8">
