@@ -115,7 +115,7 @@
 		<Name>Alagnak</Name>
 		<Phone>435-719-2299</Phone>
 		<Address NearestAirport="King Salmon">
-			<Number>1000 </Number>
+			<Number>1000</Number>
 			<Street>Silver St</Street>
 			<City>King Salmon</City>
 			<State>AK</State>
